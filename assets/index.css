@@ -62,7 +62,7 @@ header::before {
     right: 0;
     bottom: 0;
     display: block;
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("/img/Fundo_Home.jpg");
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("/Site_Aula/images/Fundo_Home.jpg");
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
