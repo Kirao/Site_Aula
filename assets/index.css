@@ -73,7 +73,7 @@ header::before {
 
 @font-face {
     font-family: "fontehome";
-    src: url("Site_Aula/assets/webfonts/AldotheApache.ttf");
+    src: url("/Site_Aula/assets/webfonts/AldotheApache.ttf");
 }
 
 .borda_texto{
